@@ -1,0 +1,7 @@
+css/main.min.css
+css/main.min.css.map
+node_modules/*
+_dev/*
+.*
+!/.gitignore
+!/.htaccess
